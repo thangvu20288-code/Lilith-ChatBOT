@@ -10,6 +10,16 @@
       "topic": "item",
       "question": "Where does Dragon Sword drop?",
       "answer": "Dragon Sword drops from Fire Dragon."
+    },
+    {
+      "topic": "monster",
+      "question": "Where is Fire Dragon?",
+      "answer": "Fire Dragon lives in Red Volcano."
+    },
+    {
+      "topic": "level",
+      "question": "What is the max level?",
+      "answer": "The max level is 100."
     }
   ]
 }

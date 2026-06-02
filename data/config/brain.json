@@ -1,12 +1,15 @@
 {
-  "facts": [
+  "game_name": "Lilith",
+  "knowledge": [
     {
-      "keyword": "sky",
-      "content": "The sky is beautiful today."
+      "topic": "general",
+      "question": "The sky is beautiful today",
+      "answer": "Good"
     },
     {
-      "keyword": "dragon sword",
-      "content": "Dragon Sword drops from Fire Dragon."
+      "topic": "item",
+      "question": "Where does Dragon Sword drop?",
+      "answer": "Dragon Sword drops from Fire Dragon."
     }
   ]
 }
